@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 💬 Start a Discussion
+    url: https://github.com/jarlungoodoo73/jabidahscreationssystemshtml/discussions
+    about: Ask questions, share ideas, and engage with the community in our Discussions forum!
   - name: Chat
     url: https://whatwg.org/chat
-    about: Please do reach out with questions and feedback!
+    about: Join the WHATWG chat for real-time discussions and questions.
   - name: Stack Overflow
     url: https://stackoverflow.com/
     about: If you're having trouble building a web page, this is not the right repository. Consider asking your question on Stack Overflow instead.

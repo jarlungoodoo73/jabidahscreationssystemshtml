@@ -8,6 +8,17 @@ We label [good first issues](https://github.com/whatwg/html/labels/good%20first%
 
 We'd be happy to mentor you through this process. If you're interested and need help getting started, leave a comment on the issue or bug, or [ask around](https://whatwg.org/chat). The [FAQ](FAQ.md) may also be helpful.
 
+## Community discussions
+
+We encourage community engagement through [GitHub Discussions](https://github.com/jarlungoodoo73/jabidahscreationssystemshtml/discussions). This is a great place to:
+
+* Ask questions about the HTML Standard
+* Share ideas and feedback
+* Discuss implementation approaches
+* Connect with other community members
+
+For general questions, ideas, and community discussions, please use Discussions rather than opening issues.
+
 ## Pull requests
 
 In short, change `source` and submit your patch, with a [good commit message](https://github.com/erlang/otp/wiki/Writing-good-commit-messages). Try to follow the source formatting rules below.
