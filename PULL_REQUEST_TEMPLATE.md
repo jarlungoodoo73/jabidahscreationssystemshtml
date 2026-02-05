@@ -4,6 +4,8 @@ Thank you for contributing to the HTML Standard! Please describe the change you 
 When you submit this PR, and each time you edit this comment (including checking a checkbox through the UI!), PR Preview will run and update it. As such make any edits in one go and only after PR Preview has run.
 
 If you think your PR is ready to land, please double-check that the build is passing and the checklist is complete before pinging.
+
+For questions about the HTML Standard or to discuss ideas before opening a PR, consider using our GitHub Discussions: https://github.com/jarlungoodoo73/jabidahscreationssystemshtml/discussions
 -->
 
 - [ ] At least two implementers are interested (and none opposed):
